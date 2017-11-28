@@ -1,0 +1,12 @@
+*.class
+*.pyc
+*.iml
+target/
+.idea/
+*.csv
+sitemap.xml
+sitemap_stream.xml
+stockfiles/
+quotes.csv
+archive/
+stock_list/
